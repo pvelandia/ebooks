@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Indie+Flower&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+background:#2a552c;
+
+font-family: "DM Serif Display", serif;
+    
+
+  
+}
+
+main {
+    max-width: 800px;
+    width: 90%; 
+    margin: auto; 
+    padding: 40px;
+}
